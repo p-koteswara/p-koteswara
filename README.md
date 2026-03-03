@@ -8,7 +8,7 @@
 
 
 ---
-## 👨‍💻 About Me
+## 👨🏾‍💻 About Me
 👨🏾‍💻 My name is Koteswara Rao Perumalla, 🎓 an Undergraduate Computer Science Student at BITS Pilani. <br>
 🚀 Building scalable full stack applications <br>
 💡 Interested in system design & real-world problem solving <br>
